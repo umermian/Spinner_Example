@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Spinner_Example</string>
+    <string-array name="organizers">
+        <item>Sports Society</item>
+        <item>Dramatic Society</item>
+        <item>Music Society</item>
+        <item>Islamic Society</item>
+        <item>SCS</item>
+        <item>Pharmacy/Medical</item>
+        <item>SOCA</item>
+        <item>LBS</item>
+        <item>EE Society</item>
+        <item>Adventure Society</item>
+    </string-array>
+</resources>
